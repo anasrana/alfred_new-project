@@ -12,7 +12,7 @@ cd $1
 gist-dl.sh https://gist.github.com/anasrana/0a0c754a336c2c893ebc > .gitignore
 
 touch notebook.todo
-touch readme.md
+touch README.md
 
 
 
