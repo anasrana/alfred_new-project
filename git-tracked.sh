@@ -17,9 +17,9 @@ touch README.md
 
 
 mkdir src
-mkdir src/run
+mkdir src/local_run
 mkdir src/script
-mkdir src/vignette
+mkdir bin
 
 touch src/make
 
