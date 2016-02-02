@@ -17,7 +17,7 @@ touch README.md
 
 
 mkdir src
-mkdir src/local_run
+mkdir src/experimental
 mkdir src/script
 mkdir bin
 
